@@ -1,0 +1,2 @@
+rootProject.name = "NetworkStatus"
+include ':app'
